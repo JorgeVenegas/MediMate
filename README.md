@@ -1,13 +1,10 @@
-![image](https://github.com/user-attachments/assets/7c65f48a-aff3-42d0-81d9-8ea35afdefc0)
-
 # MediMate
 
 **MediMate** is a React Native application developed as part of the capstone project for the Mechatronics Design course. The app enables Bluetooth Low Energy (BLE) communication with an ESP32 microcontroller, which controls a motorized pill dispenser with four independent lines. Each line dispenses medication according to user-configured schedules, providing a smart solution for automating medication management.
 
 This project demonstrates the application of React Native in IoT systems, integrating hardware and software to solve real-world challenges in healthcare.
 
-![image](https://github.com/user-attachments/assets/44fe8373-8681-4d1e-a60d-1f987cac4af3)
-
+![image](https://github.com/user-attachments/assets/ad57e758-80a1-4a1a-af13-ddd6b76f2ef5)
 
 ## Table of Contents
 
