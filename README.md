@@ -6,6 +6,8 @@ This project demonstrates the application of React Native in IoT systems, integr
 
 ![image](https://github.com/user-attachments/assets/ad57e758-80a1-4a1a-af13-ddd6b76f2ef5)
 
+https://github.com/user-attachments/assets/a64cc5ba-0560-48ca-9353-6466eb6e5574
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
